@@ -1,2 +1,2 @@
 # Python-Apps
-Repository of simple applications in python
+Repository of simple applications in python.
